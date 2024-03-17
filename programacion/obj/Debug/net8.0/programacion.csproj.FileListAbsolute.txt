@@ -1,0 +1,15 @@
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\obj\Debug\net8.0\programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\obj\Debug\net8.0\programacion.AssemblyInfoInputs.cache
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\obj\Debug\net8.0\programacion.AssemblyInfo.cs
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\obj\Debug\net8.0\programacion.csproj.CoreCompileInputs.cache
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\obj\Debug\net8.0\programacion.sourcelink.json
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\bin\Debug\net8.0\programacion.exe
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\bin\Debug\net8.0\programacion.deps.json
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\bin\Debug\net8.0\programacion.runtimeconfig.json
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\bin\Debug\net8.0\programacion.dll
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\bin\Debug\net8.0\programacion.pdb
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\obj\Debug\net8.0\programacion.dll
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\obj\Debug\net8.0\refint\programacion.dll
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\obj\Debug\net8.0\programacion.pdb
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\obj\Debug\net8.0\programacion.genruntimeconfig.cache
+C:\Users\jonti\OneDrive\Documentos\new_copy\programacion\obj\Debug\net8.0\ref\programacion.dll
