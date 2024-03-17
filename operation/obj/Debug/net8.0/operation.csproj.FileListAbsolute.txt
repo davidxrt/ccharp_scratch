@@ -1,0 +1,15 @@
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\bin\Debug\net8.0\operation.exe
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\bin\Debug\net8.0\operation.deps.json
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\bin\Debug\net8.0\operation.runtimeconfig.json
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\bin\Debug\net8.0\operation.dll
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\bin\Debug\net8.0\operation.pdb
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\obj\Debug\net8.0\operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\obj\Debug\net8.0\operation.AssemblyInfoInputs.cache
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\obj\Debug\net8.0\operation.AssemblyInfo.cs
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\obj\Debug\net8.0\operation.csproj.CoreCompileInputs.cache
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\obj\Debug\net8.0\operation.sourcelink.json
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\obj\Debug\net8.0\operation.dll
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\obj\Debug\net8.0\refint\operation.dll
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\obj\Debug\net8.0\operation.pdb
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\obj\Debug\net8.0\operation.genruntimeconfig.cache
+C:\Users\jonti\OneDrive\Documentos\new_copy\operation\obj\Debug\net8.0\ref\operation.dll

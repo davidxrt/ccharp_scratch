@@ -1,0 +1,15 @@
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\bin\Debug\net8.0\polimosfirmo.exe
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\bin\Debug\net8.0\polimosfirmo.deps.json
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\bin\Debug\net8.0\polimosfirmo.runtimeconfig.json
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\bin\Debug\net8.0\polimosfirmo.dll
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\bin\Debug\net8.0\polimosfirmo.pdb
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\obj\Debug\net8.0\polimosfirmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\obj\Debug\net8.0\polimosfirmo.AssemblyInfoInputs.cache
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\obj\Debug\net8.0\polimosfirmo.AssemblyInfo.cs
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\obj\Debug\net8.0\polimosfirmo.csproj.CoreCompileInputs.cache
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\obj\Debug\net8.0\polimosfirmo.sourcelink.json
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\obj\Debug\net8.0\polimosfirmo.dll
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\obj\Debug\net8.0\refint\polimosfirmo.dll
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\obj\Debug\net8.0\polimosfirmo.pdb
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\obj\Debug\net8.0\polimosfirmo.genruntimeconfig.cache
+C:\Users\jonti\OneDrive\Documentos\new_copy\herencia\polimosfirmo\obj\Debug\net8.0\ref\polimosfirmo.dll
